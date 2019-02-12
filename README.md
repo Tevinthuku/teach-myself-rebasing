@@ -5,6 +5,9 @@ This demo will teach me on rebasing
 ## Thinking of B here
 
 Would want to have B here, then handle A after C.
+## Lets start with feature C
+
+C is a good Letter, then we'll refactor the rest to fit the model.
 
 ## Also use the first one with respect to the second one.
 
