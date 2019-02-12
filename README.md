@@ -1,7 +1,6 @@
 # teach-myself-rebasing
+
 This demo will teach me on rebasing
-<<<<<<< HEAD
-=======
 
 ## Also use the first one with respect to the second one.
 
@@ -18,4 +17,3 @@ Will be adding a few comments here and there
 ## This is also Feature B.
 
 Will be adding a few things here too.
->>>>>>> Added initial commits to Feature B
